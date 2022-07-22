@@ -1,0 +1,25 @@
+// QUERY with useQuery
+  	
+  // const { data } = useQuery(GET_LESSONS_QUERY)
+
+ 
+  // Query GraphQL with useEffect
+
+  // useEffect(() => {
+  //   client.query({
+  //     query: GET_LESSONS_QUERY,
+  //   }).then(response => {
+  //     console.log(response.data)
+  //   })
+  // }, [])
+
+   /* CMS = Content Management System 
+
+WordPress traz tanto o painel de Admin quanto a parte  visual do front-end(temas) 
+Headless CMS: Painel de admin dados através de uma API REST ou GraphQL
+
+React que consome essa API do CMS */
+
+/* query = buscar dados
+mutation = criar, alterar ou deletar dados */
+
